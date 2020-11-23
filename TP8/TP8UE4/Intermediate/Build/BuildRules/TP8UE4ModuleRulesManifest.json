@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Cours\\Gamagora\\Moteur_Jeu\\TP8\\TP8UE4\\Source\\TP8UE4\\TP8UE4.Build.cs",
+		"D:\\Cours\\Gamagora\\Moteur_Jeu\\TP8\\TP8UE4\\Source\\TP8UE4.Target.cs",
+		"D:\\Cours\\Gamagora\\Moteur_Jeu\\TP8\\TP8UE4\\Source\\TP8UE4Editor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}

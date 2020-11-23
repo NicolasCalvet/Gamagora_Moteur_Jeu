@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TP8UE4",
+			"Path": "D:\\Cours\\Gamagora\\Moteur_Jeu\\TP8\\TP8UE4\\Source\\TP8UE4.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TP8UE4Editor",
+			"Path": "D:\\Cours\\Gamagora\\Moteur_Jeu\\TP8\\TP8UE4\\Source\\TP8UE4Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

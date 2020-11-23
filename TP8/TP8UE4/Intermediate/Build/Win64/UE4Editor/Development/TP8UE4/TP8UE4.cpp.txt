@@ -1,0 +1,2 @@
+D:\Cours\Gamagora\Moteur_Jeu\TP8\TP8UE4\Intermediate\Build\Win64\UE4Editor\Development\TP8UE4\Definitions.TP8UE4.h
+D:\Cours\Gamagora\Moteur_Jeu\TP8\TP8UE4\Source\TP8UE4\TP8UE4.h

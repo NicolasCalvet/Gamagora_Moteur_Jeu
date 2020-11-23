@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TP8UE4.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{AC9016C0-02B3-428B-8663-E1FB420E1CC9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TP8UE4.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TP8UE4Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C417F364-6C62-4862-A883-FC229ED9F6D7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TP8UE4">
+      <UniqueIdentifier>{FF4FBD9B-E12C-4173-AE4A-8B2BC5F1BE76}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TP8UE4\MonActeur.cpp">
+      <Filter>Source\TP8UE4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TP8UE4\MonActeur.h">
+      <Filter>Source\TP8UE4</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\TP8UE4\TP8UE4.Build.cs">
+      <Filter>Source\TP8UE4</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TP8UE4\TP8UE4.cpp">
+      <Filter>Source\TP8UE4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TP8UE4\TP8UE4.h">
+      <Filter>Source\TP8UE4</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
