@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TP8UE4-1580.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Cours\Gamagora\Moteur_Jeu\TP8\TP8UE4\Intermediate\Build\Win64\TP8UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Cours\Gamagora\Moteur_Jeu\TP8\TP8UE4\Intermediate\Build\Win64\UE4Editor\Development\TP8UE4\MonActeur.cpp.obj"
+"D:\Cours\Gamagora\Moteur_Jeu\TP8\TP8UE4\Intermediate\Build\Win64\UE4Editor\Development\TP8UE4\TP8UE4.cpp.obj"
+"D:\Cours\Gamagora\Moteur_Jeu\TP8\TP8UE4\Intermediate\Build\Win64\UE4Editor\Development\TP8UE4\MonActeur.gen.cpp.obj"
+"D:\Cours\Gamagora\Moteur_Jeu\TP8\TP8UE4\Intermediate\Build\Win64\UE4Editor\Development\TP8UE4\TP8UE4.init.gen.cpp.obj"
+"D:\Cours\Gamagora\Moteur_Jeu\TP8\TP8UE4\Intermediate\Build\Win64\UE4Editor\Development\TP8UE4\Default.rc2.res"
+/OUT:"D:\Cours\Gamagora\Moteur_Jeu\TP8\TP8UE4\Intermediate\Build\Win64\UE4Editor\Development\TP8UE4\UE4Editor-TP8UE4-1580.lib"
+/INCLUDE:IMPLEMENT_MODULE_TP8UE4

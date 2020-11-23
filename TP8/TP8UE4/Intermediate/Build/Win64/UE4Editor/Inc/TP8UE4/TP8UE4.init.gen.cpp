@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeTP8UE4_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x952C9584,
+				0x337E0505,
 				0xFCA4C86E,
 				METADATA_PARAMS(nullptr, 0)
 			};

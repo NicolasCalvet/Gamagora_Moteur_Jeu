@@ -1,3 +1,10 @@
 D:\Cours\Gamagora\Moteur_Jeu\TP8\TP8UE4\Intermediate\Build\Win64\UE4Editor\Development\TP8UE4\Definitions.TP8UE4.h
 D:\Cours\Gamagora\Moteur_Jeu\TP8\TP8UE4\Source\TP8UE4\MonActeur.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystem.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Particles/ParticlePerfStats.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystem.generated.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystemComponent.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Particles/Emitter.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Emitter.generated.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystemComponent.generated.h
 D:\Cours\Gamagora\Moteur_Jeu\TP8\TP8UE4\Intermediate\Build\Win64\UE4Editor\Inc\TP8UE4\MonActeur.generated.h
